@@ -1,0 +1,10 @@
+nltk
+selenium
+pandas
+numpy
+streamlit
+tweepy
+seaborn
+google_trans_new
+textblob
+scapy
